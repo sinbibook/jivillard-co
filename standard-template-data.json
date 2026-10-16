@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-10-12T02:34:17.438011627Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-10-16T13:21:38.287052297Z",
     "templateType": "trip_d",
     "propertyId": "55d69bf6-6f74-4e1d-a0ff-894698560c92",
     "homepageId": "0471fd5f-4674-4e5b-bf47-7ffa0420d7f6"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 23시 이후 입실 시 사전연락 필수\n※ 11시 이후 퇴실시 30분당 추가요금 10,000원\n※ 입퇴실 시간은 펜션 특성상 많은 청결함을 필요로 하오니 청소를 위해 시간을 반드시 지켜주세요.",
-    "usageGuide": "[공지사항]\n- 예약 시 예약인원을 꼭 확인해주세요.\n- 펜션 이용 고객님의 지인/방문객 입실 불가\n- 집기 파손 및 침구 오염 시 펜션 관계자에게 즉시 알려주시기 바랍니다.\n- 퇴실 시 음식물을 비롯한 모든 쓰레기는 분리수거하여 지정된 장소에 버려주세요.\n- 사용하신 주방기구는 세척해 주시기 바랍니다.\n- 객실 정리가 끝나시면 펜션 관계자에게 연락하시어 퇴실점검을 받으시기 바랍니다.\n- 쾌적한 객실 관리를 위해 퇴실 전 기본적인 정리를 부탁드립니다\n- 미정리 상태로 퇴실하실 경우 청소비가 부과되오니 양해 바랍니다\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 23시 이후 입실 시 사전연락 필수\n※ 11시 이후 퇴실시 30분당 추가요금 10,000원\n※ 입퇴실 시간은 펜션 특성상 많은 청결함을 필요로 하오니 청소를 위해 시간을 반드시 지켜주세요.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 인원추가시 침구류 제공\n※ 그외 침구류 요청시 추가요금 20,000원\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 전기그릴\n- 이용 요금: 무료\n- 신청 시간: 제한없음\n- 이용 시간: 제한없음\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n- 웰컴 스낵 및 티 제공\n- 비상약 구비\n\n- 광안리해수욕장 (도보 3분)\n- 민락수변공원 (차량 6분)\n- 신세계백화점센텀시티점 (차량 12분)\n- 부산 영화의전당 (차량 12분)\n- 부산시립미술관 (차량 14분)\n\n[주차장]\n- 주차장 미보유\n- 위치: 도보 1분 거리에 함안주차장\n※ 이용 요금: 20,000원 (1박 당/Ji Villard 고객에 한하여)\n※ 건물에 주차장이 없습니다.\n※ 함안주차장 주소: 부산 수영구 민락동 714-25\n\n[교통편]\n[승용차 이용 시]\n※ 네비게이션에 아래 주소 중 하나를 검색해주세요.\n지번주소: 부산 수영구 민락동 716-13\n도로명주소: 부산 수영구 광안로61번가길 12\n\n[대중교통 이용 시]\n부산역 KTX >41번 버스 승차>광안리해수욕장 하차>도보 4분>펜션 도착",
+    "usageGuide": "- 예약 시 예약인원을 꼭 확인해주세요.\n- 펜션 이용 고객님의 지인/방문객 입실 불가\n- 집기 파손 및 침구 오염 시 펜션 관계자에게 즉시 알려주시기 바랍니다.\n- 퇴실 시 음식물을 비롯한 모든 쓰레기는 분리수거하여 지정된 장소에 버려주세요.\n- 사용하신 주방기구는 세척해 주시기 바랍니다.\n- 객실 정리가 끝나시면 펜션 관계자에게 연락하시어 퇴실점검을 받으시기 바랍니다.\n- 쾌적한 객실 관리를 위해 퇴실 전 기본적인 정리를 부탁드립니다\n- 미정리 상태로 퇴실하실 경우 청소비가 부과되오니 양해 바랍니다\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 23시 이후 입실 시 사전연락 필수\n※ 11시 이후 퇴실시 30분당 추가요금 10,000원\n※ 입퇴실 시간은 펜션 특성상 많은 청결함을 필요로 하오니 청소를 위해 시간을 반드시 지켜주세요.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 30,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n※ 인원추가시 침구류 제공\n※ 그외 침구류 요청시 추가요금 20,000원\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 전기그릴\n- 이용 요금: 무료\n- 신청 시간: 제한없음\n- 이용 시간: 제한없음\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n- 웰컴 스낵 및 티 제공\n- 비상약 구비\n\n- 광안리해수욕장 (도보 3분)\n- 민락수변공원 (차량 6분)\n- 신세계백화점센텀시티점 (차량 12분)\n- 부산 영화의전당 (차량 12분)\n- 부산시립미술관 (차량 14분)\n\n[주차장]\n- 주차장 미보유\n- 위치: 도보 1분 거리에 함안주차장\n※ 이용 요금: 20,000원 (1박 당/Ji Villard 고객에 한하여)\n※ 건물에 주차장이 없습니다.\n※ 함안주차장 주소: 부산 수영구 민락동 714-25\n\n[교통편]\n[승용차 이용 시]\n※ 네비게이션에 아래 주소 중 하나를 검색해주세요.\n지번주소: 부산 수영구 민락동 716-13\n도로명주소: 부산 수영구 광안로61번가길 12\n\n[대중교통 이용 시]\n부산역 KTX >41번 버스 승차>광안리해수욕장 하차>도보 4분>펜션 도착",
     "reservationGuide": "- 예약 시 예약인원을 꼭 확인해주세요.\n- 펜션 이용 고객님의 지인/방문객 입실 불가\n- 집기 파손 및 침구 오염 시 펜션 관계자에게 즉시 알려주시기 바랍니다.\n- 퇴실 시 음식물을 비롯한 모든 쓰레기는 분리수거하여 지정된 장소에 버려주세요.\n- 사용하신 주방기구는 세척해 주시기 바랍니다.\n- 객실 정리가 끝나시면 펜션 관계자에게 연락하시어 퇴실점검을 받으시기 바랍니다.\n- 쾌적한 객실 관리를 위해 퇴실 전 기본적인 정리를 부탁드립니다\n- 미정리 상태로 퇴실하실 경우 청소비가 부과되오니 양해 바랍니다",
     "province": "도/시",
     "city": "시/군/구",
@@ -73,7 +73,7 @@
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 바베큐 형태: 전기그릴\n- 이용 요금: 무료\n- 신청 시간: 제한없음\n- 이용 시간: 제한없음\n- 우천 시 이용 가능\n- 동계 시 이용 가능",
-        "displayOrder": 1,
+        "displayOrder": 0,
         "images": [
           {
             "id": "44d43c89-b83a-48de-abcb-8ff4a626033e",
@@ -103,6 +103,55 @@
             "id": "da4626d3-078c-4d6e-b992-6d2ea5baee36",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9eddc00c-4d7f-4205-95c7-e5e628501cae/main/1787816115791-6vluy6n15l.webp",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a144de-e3a8-7622-9c40-98bea7fa4b29",
+        "name": "루프탑테라스",
+        "description": "",
+        "usageGuide": "",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a144de-f538-7db7-bf3e-bc9d8d575fa9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a144de-e3a8-7622-9c40-98bea7fa4b29/main/1792156823661-idoio5ei67.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a144de-f4e6-7c63-8311-49888c8881dc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a144de-e3a8-7622-9c40-98bea7fa4b29/main/1792156823653-4qvg41f0z5.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a144de-f4e0-7107-a831-dc5c76d1881c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a144de-e3a8-7622-9c40-98bea7fa4b29/main/1792156823654-4on3jpq0tp.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a144de-f41d-74ec-a697-6dcba30be9df",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a144de-e3a8-7622-9c40-98bea7fa4b29/main/1792156823659-721ohdr1b2.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a144de-f4e0-7c7f-873d-50db35b12188",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a144de-e3a8-7622-9c40-98bea7fa4b29/main/1792156823653-qubgc591rj.webp",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -167,7 +216,7 @@
           {
             "id": "5b3b2fbb-a44e-4b09-baec-74fc1b00eee4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9b6fdd66-f653-43b9-af11-8fe64bc47fce/main/1787816116305-5crktkxuvt.webp",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -175,7 +224,7 @@
           {
             "id": "7325e957-f6db-4c54-b574-c29ec67a77c6",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9b6fdd66-f653-43b9-af11-8fe64bc47fce/main/1787816116306-dyc62njk4k.webp",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -242,7 +291,7 @@
           {
             "id": "73094460-0045-411e-b658-6374ede14ad2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/19/pTQBfO8JC167.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -252,7 +301,7 @@
           {
             "id": "9ba0b764-6955-4771-86fb-0b0a18faee8d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/19/z67RxEWhd5aY.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -260,7 +309,7 @@
           {
             "id": "0f2b7221-a40e-4ccb-b8b3-7a1147a1eb7c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/19/3oyjaZcQs1nA.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -268,7 +317,7 @@
           {
             "id": "7f594cb9-4949-44db-8022-a79412434e0a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/19/x0r7eTvWHdnZ.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -276,7 +325,7 @@
           {
             "id": "c3661072-7a71-4766-92e1-2b415091c667",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/19/BJZtIEY7s50v.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -284,7 +333,7 @@
           {
             "id": "980cb805-c5c1-463b-a3c6-6c6e24011b47",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/19/IDtizfjsJqUk.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -292,7 +341,7 @@
           {
             "id": "186568c7-eb03-4d25-911c-f5b4473ed1a8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/19/AMyzSvNRWXmO.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -300,7 +349,7 @@
           {
             "id": "1ccff7da-adbe-4dae-a4f9-a4091c1e8ad8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/19/Doe1sJkNw0Py.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -308,7 +357,7 @@
           {
             "id": "3e9c58aa-9fb5-480c-afa2-31a8bcb3786e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/kiaHKyBYOPVX.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -316,7 +365,7 @@
           {
             "id": "1989fdcf-51f3-4fbb-8ab0-88d3701a6489",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/19/hwNYHCmPLkA3.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -923,7 +972,28 @@
             ]
           }
         ],
-        "facility": [ ],
+        "facility": [
+          {
+            "id": "01a144de-e3a8-7622-9c40-98bea7fa4b29",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "옥상 테라스에서 아름다운 드론쇼와 바다전경을 감상하며\n힐링의 시간을 보내보세요.",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
@@ -1007,33 +1077,7 @@
           ]
         },
         "landing": {
-          "sections": [
-            {
-              "enabled": false,
-              "hero": {
-                "images": [ ]
-              },
-              "about": [
-                {
-                  "blockId": "sample-card-1",
-                  "propertyId": "sample-property-1",
-                  "propertyName": "현재 숙소",
-                  "title": "",
-                  "images": [ ],
-                  "order": 1
-                },
-                {
-                  "blockId": "sample-card-2",
-                  "propertyId": "sample-property-2",
-                  "propertyName": "연결 숙소 2",
-                  "domain": "http://localhost:8000/t-template-D",
-                  "title": "",
-                  "images": [ ],
-                  "order": 2
-                }
-              ]
-            }
-          ]
+          "sections": [ ]
         }
       },
       "popup": {
